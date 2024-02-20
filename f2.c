@@ -1,3 +1,7 @@
 void main(){
   sub(){
-c=a-b;}}
+c=a-b;}
+div(){
+  c=a/b;
+}
+}
