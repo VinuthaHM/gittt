@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main(){
-add();
+add(){
+  c=a+b;}
 sub();
 mul();
 }
