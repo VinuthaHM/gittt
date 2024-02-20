@@ -1,3 +1,6 @@
 void main(){
   sub(){
-c=a-b;}}
+c=a-b;}
+mul(){
+  c=a*b;
+}
